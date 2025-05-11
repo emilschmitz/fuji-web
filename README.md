@@ -2,7 +2,7 @@
 
 # Fuji-Web with a human in the loop 🗻
 
-This is a fork from Normal Computing's (Fuji Web)[https://github.com/normal-computing/fuji-web] with added human-in-the-loop functionality.
+This is a fork from [Normal Computing](https://www.normalcomputing.com/)'s [Fuji Web](https://github.com/normal-computing/fuji-web) with added human-in-the-loop functionality.
 
 The user can configure 'Safety Checkpoint' rules in settings. Fuji will ask user for permission when its planned action triggers a checkpoint.
 
